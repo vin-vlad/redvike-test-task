@@ -1,0 +1,7 @@
+{
+  "firstName": "John",
+  "lastName": "Doe",
+  "email": "example@mail.com",
+  "avatar": "cypress/fixtures/files/validAvatar.jpg",
+  "password": "password"
+}
